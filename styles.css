@@ -1,0 +1,113 @@
+/**************************elements here*****************************/
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Raleway', sans-serif;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+a:hover {
+  color: black;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 7%;
+  border-width: 7px;
+  border-color:grey;
+}
+
+
+/**************************classes here*****************************/
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  margin-top: 15px;
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.html-and-css {
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+.c {
+  height: 150px;
+  float: right;
+  margin-right: 30px;
+}
+
+.me {
+  height: 150px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.intro {
+  color: #40514E;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #E4F9F5;
+}
